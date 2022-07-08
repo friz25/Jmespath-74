@@ -1,0 +1,61 @@
+{
+  "orders": [
+    {
+      "order_id": 3944,
+      "customer": {
+        "email": "cbritch@comcast.net",
+        "first_name": "Cori",
+        "last_name": "Brich",
+        "street": "88 Talisman Trail",
+        "country": "United States"
+      },
+      "item": {
+        "name": "Shirt",
+        "size": "Large",
+        "colour": "Torquoise"
+      },
+      "qty": {
+        "order": 2,
+        "instock": 5
+      }
+    },
+    {
+      "order_id": 1598,
+      "customer": {
+        "email": "friz@comcast.net",
+        "first_name": "Lol",
+        "last_name": "Goblinski",
+        "street": "99 Friz Trail",
+        "country": "United Kingdom"
+      },
+      "item": {
+        "name": "Pants",
+        "size": "Small",
+        "colour": "Red"
+      },
+      "qty": {
+        "order": 3,
+        "instock": 10
+      }
+    },
+    {
+      "order_id": 2999,
+      "customer": {
+        "email": "samoooa_sexy@comcast.net",
+        "first_name": "Victor",
+        "last_name": "Dzeba",
+        "street": "105 Dork Avenu",
+        "country": "Ukraine"
+      },
+      "item": {
+        "name": "Jeans",
+        "size": "Medium",
+        "colour": "Blue"
+      },
+      "qty": {
+        "order": 1,
+        "instock": 77
+      }
+    }
+  ]
+}
